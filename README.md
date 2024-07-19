@@ -16,7 +16,7 @@ The dependencies I used in it are
 
 
 # Here its live demo :
-multi-page-website-six.vercel.app
+https://multi-page-website-six.vercel.app/
 
 
 
